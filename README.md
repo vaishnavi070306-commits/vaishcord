@@ -30,7 +30,7 @@ $$
 
 Since the return stroke corresponds to a smaller crank angle, it takes less time than the working stroke. This principle is commonly used in **shaper machines** to reduce non-productive return time.
 
-The mechanism was modelled with defined dimensions for the crank, eccentric pin, slotted lever, pivots, slot, and ram. The individual components will be **FDM 3D printed and assembled** with suitable clearances at the moving interfaces to ensure smooth rotation and sliding. The final assembly will demonstrate the relationship between **linkage geometry, constrained motion, quick-return kinematics, CAD design, and additive manufacturing**.
+The mechanism was modelled with defined dimensions for the crank, eccentric pin, slotted lever, pivots, slot, and ram. The individual components will be **FDM 3D printed and assembled** with suitable clearances at the moving interfaces to ensure smooth rotation and sliding. The final assembly will demonstrate the relationship between **linkage geometry, constrained motion, quick-return kinematics and CAD design**.
 
 <img width="400" height="400" alt="withworth" src="https://github.com/user-attachments/assets/7baeba18-a7d7-47a5-9041-f5be19a0b9c4" />
 
