@@ -79,6 +79,8 @@ CFD is widely used in mechanical engineering for applications such as automotive
 As a practical example, this article considers air flowing through a pipe that suddenly expands from **20 mm to 40 mm diameter**. The aim is to study the change in velocity, pressure, flow separation and pressure loss.
 
 
+-----
+
 ## 2. CFD Workflow
 
 A typical CFD analysis follows these steps:
@@ -578,6 +580,7 @@ The activity highlighted the importance of **financial accountability, transpare
 Overall, the Financial Documentation exercise gave us valuable practical exposure to the administrative and financial procedures involved in the functioning of MARVEL. It helped us understand that financial management is not limited to purchasing the required resources but also involves maintaining accurate records and ensuring accountability for the funds used. Through this activity, we developed a better understanding of **responsibility, coordination, documentation, and financial management** in a technical organization.
 
 
+-----
 
 ## Industry Outreach and Design Domain Research
 
