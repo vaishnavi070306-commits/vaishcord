@@ -353,8 +353,8 @@ Maintaining accurate documentation of laboratory components, tools, kits, and eq
 As part of this task, I worked on identifying and documenting a range of **electronics, EV, and IoT components** available in the laboratory. Each component was inspected and its relevant information was systematically recorded in an **Excel sheet** according to the required cataloguing format. The details included the **component name, quantity, type, technical specifications, storage location, and condition** wherever applicable. Particular attention was given to identifying where each component was physically stored, including the respective **boxes, racks, shelves, and cupboards** assigned to them.
 
 The cataloguing process also involved differentiating between various types of components and understanding their intended applications, particularly in the areas of **electronics, electric vehicles, and IoT systems**. This helped create a more structured inventory and made it easier to associate each component with its corresponding storage location and technical purpose. The completed Excel catalogue can be further updated whenever new components are acquired, existing components are relocated, or their quantities and conditions change, providing the lab with a systematic record for future reference and efficient resource management.
-
-(https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrXGlYU?e=kYaP3e)
+Here goes my excel
+https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrXGlYU?e=kYaP3e
 
 ## Equipment Documentation  
 
