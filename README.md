@@ -1,6 +1,8 @@
+
+
 # PROBATION DIARY
 
-
+--------------------------------------
 
 ## Domain Tasks
 
@@ -30,7 +32,7 @@ Since the return stroke corresponds to a smaller crank angle, it takes less time
 
 The mechanism was modelled with defined dimensions for the crank, eccentric pin, slotted lever, pivots, slot, and ram. The individual components will be **FDM 3D printed and assembled** with suitable clearances at the moving interfaces to ensure smooth rotation and sliding. The final assembly will demonstrate the relationship between **linkage geometry, constrained motion, quick-return kinematics, CAD design, and additive manufacturing**.
 
-
+<img width="992" height="705" alt="withworth" src="https://github.com/user-attachments/assets/7baeba18-a7d7-47a5-9041-f5be19a0b9c4" />
 
 
 
@@ -62,6 +64,7 @@ where $M$ is the bending moment, $c$ is the distance from the neutral axis, $I$ 
 
 The mechanism is intended for **reusable food-bag sealing**, providing a practical application of compliant-mechanism design. It will be fabricated as **one continuous component using FDM 3D printing**, with the material selected based on strength, ductility, flexibility, and resistance to repeated bending. Since FDM components are anisotropic due to their layer structure, the **print orientation and layer direction** will be selected to improve the strength and fatigue resistance of the living hinge. The printed component will require no mechanical assembly, with only minor removal of printing artefacts if necessary. The prototype will be evaluated through repeated opening and closing cycles to assess **elastic recovery, gripping force, deformation, and resistance to failure**. The project therefore integrates **compliant mechanism design, Strength of Materials, Material Science, mechanical analysis, CAD modelling, additive manufacturing, and real-world application** into a functional single-piece mechanism.
 
+<img width="1177" height="677" alt="compliant" src="https://github.com/user-attachments/assets/d507e5c7-2f13-4939-8970-ef2240be7f3d" />
 
 # Computational Fluid Dynamics (CFD) Resource Article
 
@@ -75,8 +78,6 @@ CFD is widely used in mechanical engineering for applications such as automotive
 
 As a practical example, this article considers air flowing through a pipe that suddenly expands from **20 mm to 40 mm diameter**. The aim is to study the change in velocity, pressure, flow separation and pressure loss.
 
----
-
 ## 2. CFD Workflow
 
 A typical CFD analysis follows these steps:
@@ -85,7 +86,6 @@ A typical CFD analysis follows these steps:
 
 The geometry represents the fluid region being analysed. The domain is then divided into mesh cells. Fluid properties and boundary conditions are defined, after which the solver calculates the flow field. Finally, the results are visualised and compared with theoretical values.
 
----
 
 ## 3. Geometry and Parameters
 
@@ -103,7 +103,6 @@ The geometry represents the fluid region being analysed. The domain is then divi
 
 The sudden increase in diameter creates a sudden increase in flow area, causing the velocity to decrease and creating a region of separated flow downstream of the expansion.
 
----
 
 ## 4. Governing Equations
 
@@ -148,7 +147,6 @@ $$
 
 Since the Reynolds number is above approximately 4000, the inlet flow is treated as turbulent.
 
----
 
 ## 5. Boundary Conditions
 
@@ -210,8 +208,6 @@ $$
 
 This means the fluid immediately touching the wall has zero velocity relative to it.
 
----
-
 ## 6. Theoretical Outlet Velocity
 
 The outlet area is:
@@ -239,8 +235,6 @@ $$
 
 The velocity decreases because the outlet area is four times the inlet area.
 
----
-
 ## 7. Mesh and Simulation Setup
 
 The mesh should be refined near the sudden expansion and pipe walls because these regions contain large velocity gradients and flow separation.
@@ -259,8 +253,6 @@ The simulation procedure is:
 10. Examine the results through post-processing.
 
 The \(k-\omega\) SST model is selected because it performs well for flows involving adverse pressure gradients and separation.
-
----
 
 ## 8. Expected Flow Behaviour
 
@@ -292,8 +284,6 @@ $$
 
 These theoretical values can be used to check the CFD results.
 
----
-
 ## 9. Post-Processing
 
 The main CFD results to examine are:
@@ -305,8 +295,6 @@ The main CFD results to examine are:
 * **Pressure loss** — indicates the energy loss caused by the sudden expansion.
 
 The CFD outlet velocity and pressure loss can be compared with the theoretical values calculated above.
-
----
 
 ## 10. CFD Applications and Learning
 
@@ -321,8 +309,6 @@ CFD is used in many engineering fields, including:
 
 Students can begin learning CFD using platforms such as **ANSYS Fluent, OpenFOAM, SimScale and STAR-CCM+**. A good approach is to start with simple cases such as pipe flow and sudden expansion before moving to more complex problems.
 
----
-
 ## 11. Conclusion
 
 The sudden-expansion pipe provides a simple example for understanding the basic CFD workflow and the behaviour of internal turbulent flow.
@@ -334,7 +320,7 @@ The CFD simulation can visualise these phenomena and provide detailed informatio
 This example demonstrates that CFD is not simply about generating flow contours. It combines **fluid mechanics, numerical analysis, computer simulation and engineering judgement** to study and improve real-world systems.
 
 
-## Lab Presence, Batch Support and Lab Management
+## Regular Lab Activities & Attendance
 
 As part of my responsibilities in the MARVEL lab, I made it a point to be present in the lab during my free time and not only when a particular task or activity was assigned to me. Regular presence in the lab helped me become familiar with the day-to-day functioning of the workspace, understand how different activities were coordinated, and remain available whenever assistance was required. It also gave me an opportunity to observe and learn from the work being carried out by other students and coordinators.
 
@@ -345,6 +331,7 @@ Another important responsibility was assisting with the issue and return of comp
 I also understood the importance of maintaining proper records for every visit to the lab. I regularly signed the lab log register whenever I visited the MARVEL lab. Maintaining the register provides a record of lab usage and helps keep track of the participation and presence of coordinators and students.
 
 Overall, regular lab presence allowed me to contribute beyond my individually assigned tasks. It helped me develop responsibility, teamwork, communication, and resource-management skills while also giving me practical exposure to the functioning of a student-driven technical laboratory. By assisting during batch sessions, supporting component and kit management, and maintaining proper attendance records, I contributed to keeping the lab organized, accessible, and supportive for students working on their projects and activities.
+Here is my running log of visits  https://docs.google.com/spreadsheets/d/1brApsyCMCcpFy1qJmYbUQTcHdMLXy3yz_7gGkANS4pg/edit?usp=sharing
 
 
 ## 3. SIH Internal Hackathon Support
@@ -356,7 +343,6 @@ My contribution to the SIH Internal Hackathon so far has mainly been focused on 
 - Broadcasted SIH Internal Hackathon announcements and information.
 - Shared participation and registration-related details with students.
 - Helped spread awareness about the event through the available communication channels.
-
 
 
 
@@ -372,7 +358,12 @@ The cataloguing process also involved differentiating between various types of c
 
 ## Equipment Documentation  
 
+
+
+
 ## HW-130 L293D Motor Driver Shield – User Manual
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e8dd48b5-e9a5-404e-96e4-1a3ffde2a455" />
 
 ### Function
 - Used to control the direction and speed of DC motors.
@@ -412,6 +403,8 @@ The cataloguing process also involved differentiating between various types of c
 
 ## PWM DC Motor Speed Controller – User Manual
 
+<img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/0a14ec31-dea5-4859-b209-a963c769e84c" />
+
 ### Function
 - Controls the speed of a brushed DC motor.
 - Provides smooth and adjustable speed control.
@@ -450,43 +443,7 @@ The cataloguing process also involved differentiating between various types of c
 
 ## BEETELCH DC Power Supply – User Manual
 
-### Function
-- Provides adjustable regulated DC voltage.
-- Supplies controlled current to electronic circuits.
-- Used for laboratory experiments and circuit testing.
-- Displays output voltage and current.
-- Allows voltage and current limits to be adjusted.
-
-### Working Principle
-- Converts input electrical power into regulated DC output.
-- Voltage-control circuitry maintains the selected voltage.
-- Current-control circuitry limits the maximum output current.
-- The display continuously indicates voltage and current.
-- The supply can operate in constant-voltage or current-limited operation.
-
-### Specifications
-- Type: Regulated DC bench power supply.
-- Manufacturer: BEETELCH.
-- Controls: Coarse and fine voltage/current adjustment.
-- Display: Voltage and current indication.
-- Outputs: Positive, negative and ground terminals.
-
-### Operating Instructions
-- Connect the power supply to a suitable AC source.
-- Keep the voltage and current settings low initially.
-- Set the required voltage and current limit.
-- Connect the circuit with correct polarity.
-- Switch on the output and monitor the displayed readings.
-
-### Safety Instructions
-- Check polarity before connecting a circuit.
-- Do not exceed the rated output.
-- Never intentionally short the output terminals.
-- Keep liquids away from the equipment.
-- Switch off the output before changing connections.
-
-
-## BEETELCH DC Power Supply – User Manual
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/945cbee2-8bb7-48d0-9f74-7a021b1f1617" />
 
 ### Function
 - Provides adjustable regulated DC voltage.
@@ -522,10 +479,10 @@ The cataloguing process also involved differentiating between various types of c
 - Never intentionally short the output terminals.
 - Keep liquids away from the equipment.
 - Switch off the output before changing connections.
-
-
 
 ## Two-Axis Joystick Module – User Manual
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/71826085-c504-401d-bfd7-538f89c78a26" />
 
 ### Function
 - Provides user input for electronic and robotic systems.
@@ -564,6 +521,8 @@ The cataloguing process also involved differentiating between various types of c
 
 
 ## 16×2 LCD Display – User Manual
+
+<img width="800" height="362" alt="image" src="https://github.com/user-attachments/assets/a0fe1ecd-132a-4cdb-bc44-f808b82a67ff" />
 
 ### Function
 - Displays alphanumeric information.
@@ -630,7 +589,11 @@ I would therefore suggest that **SolidWorks or other widely used industry-releva
 
 
 ## Cross-Domain Exposure Tasks
+
 ### Task 1 – Solar Panel Sun Tracking
+
+<img width="847" height="1579" alt="image" src="https://github.com/user-attachments/assets/b1c5555a-cede-40a8-b2ec-bdde82808f28" />
+
 
 The first task involved designing and implementing a basic **solar panel sun-tracking mechanism using LDRs, an Arduino, and a servo motor**. The main objective was to make the solar panel automatically orient itself toward the direction from which the strongest light was being received. Since the amount of solar energy collected by a panel depends on the intensity and direction of incident sunlight, keeping the panel oriented toward the strongest light source can improve energy collection.
 The system used **two LDR (Light Dependent Resistor) sensors** placed on different sides of the panel. The LDRs detect the intensity of light falling on each side and provide corresponding electrical readings to the Arduino. By comparing these two readings, the Arduino can determine which side is receiving more light and accordingly adjust the position of the solar panel.
@@ -645,6 +608,7 @@ Through this task, I learnt how **light sensors can be integrated with a microco
 # Task 2 – SPI Communication
 
 
+<img width="1504" height="1128" alt="image" src="https://github.com/user-attachments/assets/fdf1577f-74a3-4ce4-a74a-fb7d1183b70b" />
 
 The second task involved implementing **SPI (Serial Peripheral Interface) communication** using Arduino boards. The objective was to understand how digital devices communicate using SPI and how a **master device exchanges data with a slave device**. SPI is commonly used for communication between microcontrollers and peripherals such as SD card modules, displays, sensors, and other microcontrollers.
 
