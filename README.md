@@ -322,6 +322,7 @@ The CFD simulation can visualise these phenomena and provide detailed informatio
 
 This example demonstrates that CFD is not simply about generating flow contours. It combines **fluid mechanics, numerical analysis, computer simulation and engineering judgement** to study and improve real-world systems.
 
+<br><br>
 
 ## Regular Lab Activities & Attendance
 
@@ -336,6 +337,7 @@ I also understood the importance of maintaining proper records for every visit t
 Overall, regular lab presence allowed me to contribute beyond my individually assigned tasks. It helped me develop responsibility, teamwork, communication, and resource-management skills while also giving me practical exposure to the functioning of a student-driven technical laboratory. By assisting during batch sessions, supporting component and kit management, and maintaining proper attendance records, I contributed to keeping the lab organized, accessible, and supportive for students working on their projects and activities.
 Here is my running log of visits  https://docs.google.com/spreadsheets/d/1brApsyCMCcpFy1qJmYbUQTcHdMLXy3yz_7gGkANS4pg/edit?usp=sharing
 
+<br><br>
 
 ## SIH Internal Hackathon Support
 
@@ -348,7 +350,7 @@ My contribution to the SIH Internal Hackathon so far has mainly been focused on 
 - Helped spread awareness about the event through the available communication channels.
 
 
-
+<br><br>
 
 ## Resource Cataloguing
 
@@ -361,7 +363,7 @@ Here goes my excel
 https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrXGlYU?e=kYaP3e
 
 
-
+<br><br>
 ## Equipment Documentation  
 
 
