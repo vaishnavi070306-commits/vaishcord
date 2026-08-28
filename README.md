@@ -34,7 +34,7 @@ The mechanism was modelled with defined dimensions for the crank, eccentric pin,
 
 <img width="400" height="400" alt="withworth" src="https://github.com/user-attachments/assets/7baeba18-a7d7-47a5-9041-f5be19a0b9c4" />
 
---
+
 
 
 
@@ -77,7 +77,7 @@ Computational Fluid Dynamics (CFD) is a numerical method used to study fluid flo
 CFD is widely used in mechanical engineering for applications such as automotive aerodynamics, HVAC, pumps, turbines, heat exchangers and piping systems.
 
 As a practical example, this article considers air flowing through a pipe that suddenly expands from **20 mm to 40 mm diameter**. The aim is to study the change in velocity, pressure, flow separation and pressure loss.
---
+
 
 ## 2. CFD Workflow
 
@@ -356,7 +356,7 @@ As part of this task, I worked on identifying and documenting a range of **elect
 The cataloguing process also involved differentiating between various types of components and understanding their intended applications, particularly in the areas of **electronics, electric vehicles, and IoT systems**. This helped create a more structured inventory and made it easier to associate each component with its corresponding storage location and technical purpose. The completed Excel catalogue can be further updated whenever new components are acquired, existing components are relocated, or their quantities and conditions change, providing the lab with a systematic record for future reference and efficient resource management.
 Here goes my excel
 https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrXGlYU?e=kYaP3e
---
+
 ## Equipment Documentation  
 
 
@@ -577,7 +577,7 @@ The activity highlighted the importance of **financial accountability, transpare
 
 Overall, the Financial Documentation exercise gave us valuable practical exposure to the administrative and financial procedures involved in the functioning of MARVEL. It helped us understand that financial management is not limited to purchasing the required resources but also involves maintaining accurate records and ensuring accountability for the funds used. Through this activity, we developed a better understanding of **responsibility, coordination, documentation, and financial management** in a technical organization.
 
---
+
 
 ## Industry Outreach and Design Domain Research
 
@@ -588,7 +588,7 @@ I enquired about the **current industry trends, software requirements, and skill
 Based on this interaction, I understood that learning industry-relevant CAD/CAE software alongside our existing tasks could help us develop skills that are more aligned with current industry requirements.
 
 I would therefore suggest that **SolidWorks or other widely used industry-relevant CAD/CAE software** could be incorporated into some of our future tasks. This would provide practical exposure to tools currently used in the field and help us further improve our design and prototyping skills.
---
+
 ## Cross-Domain Exposure Tasks
 
 ### Task 1 – Solar Panel Sun Tracking
@@ -604,7 +604,7 @@ This created a simple **feedback-based control system**. The LDRs acted as the s
 During the implementation, I also had to consider the practical behaviour of the servo and sensor readings. Small differences in LDR values can occur even when the light source is nearly centered, so the comparison logic needs to avoid unnecessary or continuous movement. This helped us understand that practical control systems require suitable decision-making rather than simply responding to every small change in sensor readings.
 Through this task, I learnt how **light sensors can be integrated with a microcontroller to control mechanical movement**. We understood the working principle of LDRs, analog sensor readings, servo motor control, and basic conditional logic in Arduino programming.
 
---
+
 
 # Task 2 – SPI Communication
 
@@ -630,7 +630,7 @@ I also learnt that SPI communication requires both **correct hardware connection
 
 The task also helped me understand the concept of **full-duplex communication**, where the master and slave can exchange data through separate transmission and reception lines. By implementing the communication ourselves, I gained a clearer understanding of how SPI can be used for communication between a microcontroller and external peripherals or another microcontroller.
 
---
+
 # Articulation — Sampada Magazine Article 
 
 It was a truly amazing experience to work in such a lab as MARVEL. I had the privilege of becoming a coordinator for one month under probation, where I had to perform duties that were almost equivalent to those of the regular coordinators.
