@@ -36,7 +36,7 @@ The mechanism was modelled with defined dimensions for the crank, eccentric pin,
 
 
 
-
+-----
 
 # 2)Compliant Mechanism – 3D Printed Chip/Bags Clip
 
@@ -349,6 +349,7 @@ My contribution to the SIH Internal Hackathon so far has mainly been focused on 
 
 
 
+
 ## Resource Cataloguing
 
 Maintaining accurate documentation of laboratory components, tools, kits, and equipment is essential for keeping the lab organized and ensuring that available resources can be easily identified and accessed. A proper inventory system helps distinguish newly acquired components from existing ones while providing information about their **type, quantity, specifications, condition, and storage location**. Recording the exact storage location, such as a particular box, rack, shelf, or cupboard, also reduces the time required to locate components and helps prevent misplacement or duplication of items. Regularly updating such records ensures that the laboratory maintains a reliable and accessible inventory of its resources.
@@ -359,9 +360,9 @@ The cataloguing process also involved differentiating between various types of c
 Here goes my excel
 https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrXGlYU?e=kYaP3e
 
+
+
 ## Equipment Documentation  
-
-
 
 
 ## 1)HW-130 L293D Motor Driver Shield – User Manual
