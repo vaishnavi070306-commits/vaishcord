@@ -64,7 +64,7 @@ where $M$ is the bending moment, $c$ is the distance from the neutral axis, $I$ 
 
 The mechanism is intended for **reusable food-bag sealing**, providing a practical application of compliant-mechanism design. It will be fabricated as **one continuous component using FDM 3D printing**, with the material selected based on strength, ductility, flexibility, and resistance to repeated bending. Since FDM components are anisotropic due to their layer structure, the **print orientation and layer direction** will be selected to improve the strength and fatigue resistance of the living hinge. The printed component will require no mechanical assembly, with only minor removal of printing artefacts if necessary. The prototype will be evaluated through repeated opening and closing cycles to assess **elastic recovery, gripping force, deformation, and resistance to failure**. The project therefore integrates **compliant mechanism design, Strength of Materials, Material Science, mechanical analysis, CAD modelling, additive manufacturing, and real-world application** into a functional single-piece mechanism.
 
-<img width="400" height="400" alt="compliant" src="https://github.com/user-attachments/assets/d507e5c7-2f13-4939-8970-ef2240be7f3d" />
+<img width="400" height="500" alt="compliant" src="https://github.com/user-attachments/assets/d507e5c7-2f13-4939-8970-ef2240be7f3d" />
 
 # Computational Fluid Dynamics (CFD) Resource Article
 
@@ -354,7 +354,7 @@ As part of this task, I worked on identifying and documenting a range of **elect
 
 The cataloguing process also involved differentiating between various types of components and understanding their intended applications, particularly in the areas of **electronics, electric vehicles, and IoT systems**. This helped create a more structured inventory and made it easier to associate each component with its corresponding storage location and technical purpose. The completed Excel catalogue can be further updated whenever new components are acquired, existing components are relocated, or their quantities and conditions change, providing the lab with a systematic record for future reference and efficient resource management.
 
-
+(https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrXGlYU?e=kYaP3e)
 
 ## Equipment Documentation  
 
