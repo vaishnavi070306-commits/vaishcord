@@ -323,7 +323,6 @@ The CFD simulation can visualise these phenomena and provide detailed informatio
 This example demonstrates that CFD is not simply about generating flow contours. It combines **fluid mechanics, numerical analysis, computer simulation and engineering judgement** to study and improve real-world systems.
 
 <br><br>
-
 ## Regular Lab Activities & Attendance
 
 As part of my responsibilities in the MARVEL lab, I made it a point to be present in the lab during my free time and not only when a particular task or activity was assigned to me. Regular presence in the lab helped me become familiar with the day-to-day functioning of the workspace, understand how different activities were coordinated, and remain available whenever assistance was required. It also gave me an opportunity to observe and learn from the work being carried out by other students and coordinators.
@@ -338,7 +337,6 @@ Overall, regular lab presence allowed me to contribute beyond my individually as
 Here is my running log of visits  https://docs.google.com/spreadsheets/d/1brApsyCMCcpFy1qJmYbUQTcHdMLXy3yz_7gGkANS4pg/edit?usp=sharing
 
 <br><br>
-
 ## SIH Internal Hackathon Support
 
 My contribution to the SIH Internal Hackathon so far has mainly been focused on campaigning and communication. I broadcasted the information related to the hackathon to students through the available communication channels, including details regarding the event, participation, and registration. This helped ensure that the information reached the intended students and created awareness about the hackathon.
@@ -351,7 +349,6 @@ My contribution to the SIH Internal Hackathon so far has mainly been focused on 
 
 
 <br><br>
-
 ## Resource Cataloguing
 
 Maintaining accurate documentation of laboratory components, tools, kits, and equipment is essential for keeping the lab organized and ensuring that available resources can be easily identified and accessed. A proper inventory system helps distinguish newly acquired components from existing ones while providing information about their **type, quantity, specifications, condition, and storage location**. Recording the exact storage location, such as a particular box, rack, shelf, or cupboard, also reduces the time required to locate components and helps prevent misplacement or duplication of items. Regularly updating such records ensures that the laboratory maintains a reliable and accessible inventory of its resources.
