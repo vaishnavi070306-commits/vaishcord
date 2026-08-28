@@ -668,3 +668,10 @@ Most importantly, it made me realise that I am capable of more than I initially 
 
 I am truly grateful for this opportunity and for everyone who was a part of this journey. My special thanks go to each and every Coordinator and Probation Coordinator at MARVEL for making this experience something I will cherish forever.
 
+
+
+
+## Bonus — Own Initiative Task
+
+I guided Hari priya of 8th batch marvel d&p mechanical student through her batch courses and walked her through the basics of fusion 360,since she didn't have experience in cad, she patiently learnt every step and followed my instructions to the best of her level. I loved teaching her and it went very well
+
