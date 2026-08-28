@@ -482,7 +482,7 @@ The cataloguing process also involved differentiating between various types of c
 
 ## Two-Axis Joystick Module – User Manual
 
-<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/71826085-c504-401d-bfd7-538f89c78a26" />
+<img width="180" height="900" alt="image" src="https://github.com/user-attachments/assets/71826085-c504-401d-bfd7-538f89c78a26" />
 
 ### Function
 - Provides user input for electronic and robotic systems.
