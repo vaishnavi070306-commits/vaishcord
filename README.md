@@ -6,7 +6,7 @@
 
 ## Domain Tasks
 
-## Linkage Mechanism Build
+## 1)Linkage Mechanism Build
 
 The designed mechanism is a **Whitworth quick-return mechanism** that converts continuous rotary motion into reciprocating linear motion. The mechanism consists of a **fixed base, rotating crank, eccentric crank pin, slotted oscillating lever, and horizontal ram**. The crank rotates about its fixed centre, causing the eccentric pin to follow a circular path while sliding inside the slot of the oscillating lever. This makes the lever oscillate about its lower fixed pivot, which in turn drives the horizontal ram in a reciprocating motion.
 
@@ -34,11 +34,11 @@ The mechanism was modelled with defined dimensions for the crank, eccentric pin,
 
 <img width="400" height="400" alt="withworth" src="https://github.com/user-attachments/assets/7baeba18-a7d7-47a5-9041-f5be19a0b9c4" />
 
+--
 
 
 
-
-# Compliant Mechanism – 3D Printed Chip/Bags Clip
+# 2)Compliant Mechanism – 3D Printed Chip/Bags Clip
 
 The designed mechanism is a **single-piece compliant chip/bag clip** based on a **living-hinge flexure**, in which motion is generated through elastic deformation rather than conventional rigid joints. The clip consists of two gripping arms connected by a thin, flexible hinge region. When an external force is applied to the arms, the flexure undergoes bending deformation and stores elastic strain energy; upon release, this energy produces the restoring force required to return the clip towards its closed position. Thus, the mechanism achieves **actuation without pins, bearings, screws, or rigid-link assembly**.
 
@@ -66,7 +66,7 @@ The mechanism is intended for **reusable food-bag sealing**, providing a practic
 
 <img width="400" height="500" alt="compliant" src="https://github.com/user-attachments/assets/d507e5c7-2f13-4939-8970-ef2240be7f3d" />
 
-# Computational Fluid Dynamics (CFD) Resource Article
+# 3) Computational Fluid Dynamics (CFD) Resource Article
 
 ## CFD Analysis of Airflow Through a Pipe with Sudden Expansion
 
@@ -77,6 +77,7 @@ Computational Fluid Dynamics (CFD) is a numerical method used to study fluid flo
 CFD is widely used in mechanical engineering for applications such as automotive aerodynamics, HVAC, pumps, turbines, heat exchangers and piping systems.
 
 As a practical example, this article considers air flowing through a pipe that suddenly expands from **20 mm to 40 mm diameter**. The aim is to study the change in velocity, pressure, flow separation and pressure loss.
+--
 
 ## 2. CFD Workflow
 
@@ -355,7 +356,7 @@ As part of this task, I worked on identifying and documenting a range of **elect
 The cataloguing process also involved differentiating between various types of components and understanding their intended applications, particularly in the areas of **electronics, electric vehicles, and IoT systems**. This helped create a more structured inventory and made it easier to associate each component with its corresponding storage location and technical purpose. The completed Excel catalogue can be further updated whenever new components are acquired, existing components are relocated, or their quantities and conditions change, providing the lab with a systematic record for future reference and efficient resource management.
 Here goes my excel
 https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrXGlYU?e=kYaP3e
-
+--
 ## Equipment Documentation  
 
 
@@ -401,7 +402,7 @@ https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrX
 - Allow the driver IC to cool if it becomes excessively hot.
 
 
-## 2)PWM DC Motor Speed Controller – User Manual
+## 2) PWM DC Motor Speed Controller – User Manual
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0a14ec31-dea5-4859-b209-a963c769e84c" />
 
@@ -560,7 +561,7 @@ https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrX
 - Handle the LCD glass carefully and avoid excessive pressure.
 
 
-
+---
 
 ## Financial Documentation
 
@@ -576,6 +577,7 @@ The activity highlighted the importance of **financial accountability, transpare
 
 Overall, the Financial Documentation exercise gave us valuable practical exposure to the administrative and financial procedures involved in the functioning of MARVEL. It helped us understand that financial management is not limited to purchasing the required resources but also involves maintaining accurate records and ensuring accountability for the funds used. Through this activity, we developed a better understanding of **responsibility, coordination, documentation, and financial management** in a technical organization.
 
+--
 
 ## Industry Outreach and Design Domain Research
 
@@ -586,8 +588,7 @@ I enquired about the **current industry trends, software requirements, and skill
 Based on this interaction, I understood that learning industry-relevant CAD/CAE software alongside our existing tasks could help us develop skills that are more aligned with current industry requirements.
 
 I would therefore suggest that **SolidWorks or other widely used industry-relevant CAD/CAE software** could be incorporated into some of our future tasks. This would provide practical exposure to tools currently used in the field and help us further improve our design and prototyping skills.
-
-
+--
 ## Cross-Domain Exposure Tasks
 
 ### Task 1 – Solar Panel Sun Tracking
@@ -603,10 +604,9 @@ This created a simple **feedback-based control system**. The LDRs acted as the s
 During the implementation, I also had to consider the practical behaviour of the servo and sensor readings. Small differences in LDR values can occur even when the light source is nearly centered, so the comparison logic needs to avoid unnecessary or continuous movement. This helped us understand that practical control systems require suitable decision-making rather than simply responding to every small change in sensor readings.
 Through this task, I learnt how **light sensors can be integrated with a microcontroller to control mechanical movement**. We understood the working principle of LDRs, analog sensor readings, servo motor control, and basic conditional logic in Arduino programming.
 
-
+--
 
 # Task 2 – SPI Communication
-
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/fdf1577f-74a3-4ce4-a74a-fb7d1183b70b" />
 
@@ -630,9 +630,7 @@ I also learnt that SPI communication requires both **correct hardware connection
 
 The task also helped me understand the concept of **full-duplex communication**, where the master and slave can exchange data through separate transmission and reception lines. By implementing the communication ourselves, I gained a clearer understanding of how SPI can be used for communication between a microcontroller and external peripherals or another microcontroller.
 
-
-
-
+--
 # Articulation — Sampada Magazine Article 
 
 It was a truly amazing experience to work in such a lab as MARVEL. I had the privilege of becoming a coordinator for one month under probation, where I had to perform duties that were almost equivalent to those of the regular coordinators.
@@ -657,9 +655,13 @@ Apart from the technical and organisational work, I think the people I met durin
 
 There were definitely moments when I was confused or did not know how to approach a task. But that was also part of the experience. I learned that it is okay not to know something initially, as long as I am willing to learn it, ask questions and work through the problem. In that sense, the probation was not just about completing the tasks assigned to me. It was also about becoming more willing to explore things that were unfamiliar to me.
 
-Looking back, I feel that the probation gave me much more than just technical exposure. It gave me an opportunity to interact with people, take responsibility, work as part of a team, understand how an organisation functions and explore areas outside my own domain.
+As a kid, I always wished to build something using electronic components, but I never really got the opportunity to do it. I feel that this childhood wish has finally been fulfilled through MARVEL and its unwavering support for creative minds. Having access to the lab, components, and guidance gave me the opportunity to move beyond just being curious about electronics and actually build and experiment with them. More importantly, MARVEL showed me that even ideas that begin as simple curiosity can turn into something tangible when you have the right environment and support.
+
+
+Looking back, I feel that the probation gave me much more than just technical exposure. It gave me an opportunity to interact with people, take responsibility, work as part of a team, understand how an organisation functions and explore areas outside my own domain. 
 
 Most importantly, it made me realise that I am capable of more than I initially thought. Being surrounded by people who were constantly learning, building and experimenting made me want to do the same.
+
 
 I am truly grateful for this opportunity and for everyone who was a part of this journey. My special thanks go to each and every Coordinator and Probation Coordinator at MARVEL for making this experience something I will cherish forever.
 
