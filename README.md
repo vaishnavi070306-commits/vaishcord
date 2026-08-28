@@ -64,7 +64,7 @@ where $M$ is the bending moment, $c$ is the distance from the neutral axis, $I$ 
 
 The mechanism is intended for **reusable food-bag sealing**, providing a practical application of compliant-mechanism design. It will be fabricated as **one continuous component using FDM 3D printing**, with the material selected based on strength, ductility, flexibility, and resistance to repeated bending. Since FDM components are anisotropic due to their layer structure, the **print orientation and layer direction** will be selected to improve the strength and fatigue resistance of the living hinge. The printed component will require no mechanical assembly, with only minor removal of printing artefacts if necessary. The prototype will be evaluated through repeated opening and closing cycles to assess **elastic recovery, gripping force, deformation, and resistance to failure**. The project therefore integrates **compliant mechanism design, Strength of Materials, Material Science, mechanical analysis, CAD modelling, additive manufacturing, and real-world application** into a functional single-piece mechanism.
 
-<img width="1177" height="677" alt="compliant" src="https://github.com/user-attachments/assets/d507e5c7-2f13-4939-8970-ef2240be7f3d" />
+<img width="400" height="400" alt="compliant" src="https://github.com/user-attachments/assets/d507e5c7-2f13-4939-8970-ef2240be7f3d" />
 
 # Computational Fluid Dynamics (CFD) Resource Article
 
@@ -363,7 +363,7 @@ The cataloguing process also involved differentiating between various types of c
 
 ## HW-130 L293D Motor Driver Shield – User Manual
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e8dd48b5-e9a5-404e-96e4-1a3ffde2a455" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e8dd48b5-e9a5-404e-96e4-1a3ffde2a455" />
 
 ### Function
 - Used to control the direction and speed of DC motors.
@@ -403,7 +403,7 @@ The cataloguing process also involved differentiating between various types of c
 
 ## PWM DC Motor Speed Controller – User Manual
 
-<img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/0a14ec31-dea5-4859-b209-a963c769e84c" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0a14ec31-dea5-4859-b209-a963c769e84c" />
 
 ### Function
 - Controls the speed of a brushed DC motor.
@@ -443,7 +443,7 @@ The cataloguing process also involved differentiating between various types of c
 
 ## BEETELCH DC Power Supply – User Manual
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/945cbee2-8bb7-48d0-9f74-7a021b1f1617" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/945cbee2-8bb7-48d0-9f74-7a021b1f1617" />
 
 ### Function
 - Provides adjustable regulated DC voltage.
@@ -482,7 +482,7 @@ The cataloguing process also involved differentiating between various types of c
 
 ## Two-Axis Joystick Module – User Manual
 
-<img width="180" height="900" alt="image" src="https://github.com/user-attachments/assets/71826085-c504-401d-bfd7-538f89c78a26" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/71826085-c504-401d-bfd7-538f89c78a26" />
 
 ### Function
 - Provides user input for electronic and robotic systems.
@@ -522,7 +522,7 @@ The cataloguing process also involved differentiating between various types of c
 
 ## 16×2 LCD Display – User Manual
 
-<img width="800" height="362" alt="image" src="https://github.com/user-attachments/assets/a0fe1ecd-132a-4cdb-bc44-f808b82a67ff" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a0fe1ecd-132a-4cdb-bc44-f808b82a67ff" />
 
 ### Function
 - Displays alphanumeric information.
@@ -592,7 +592,7 @@ I would therefore suggest that **SolidWorks or other widely used industry-releva
 
 ### Task 1 – Solar Panel Sun Tracking
 
-<img width="847" height="1579" alt="image" src="https://github.com/user-attachments/assets/b1c5555a-cede-40a8-b2ec-bdde82808f28" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b1c5555a-cede-40a8-b2ec-bdde82808f28" />
 
 
 The first task involved designing and implementing a basic **solar panel sun-tracking mechanism using LDRs, an Arduino, and a servo motor**. The main objective was to make the solar panel automatically orient itself toward the direction from which the strongest light was being received. Since the amount of solar energy collected by a panel depends on the intensity and direction of incident sunlight, keeping the panel oriented toward the strongest light source can improve energy collection.
@@ -608,7 +608,7 @@ Through this task, I learnt how **light sensors can be integrated with a microco
 # Task 2 – SPI Communication
 
 
-<img width="1504" height="1128" alt="image" src="https://github.com/user-attachments/assets/fdf1577f-74a3-4ce4-a74a-fb7d1183b70b" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/fdf1577f-74a3-4ce4-a74a-fb7d1183b70b" />
 
 The second task involved implementing **SPI (Serial Peripheral Interface) communication** using Arduino boards. The objective was to understand how digital devices communicate using SPI and how a **master device exchanges data with a slave device**. SPI is commonly used for communication between microcontrollers and peripherals such as SD card modules, displays, sensors, and other microcontrollers.
 
