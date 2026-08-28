@@ -334,7 +334,7 @@ Overall, regular lab presence allowed me to contribute beyond my individually as
 Here is my running log of visits  https://docs.google.com/spreadsheets/d/1brApsyCMCcpFy1qJmYbUQTcHdMLXy3yz_7gGkANS4pg/edit?usp=sharing
 
 
-## 3. SIH Internal Hackathon Support
+## SIH Internal Hackathon Support
 
 My contribution to the SIH Internal Hackathon so far has mainly been focused on campaigning and communication. I broadcasted the information related to the hackathon to students through the available communication channels, including details regarding the event, participation, and registration. This helped ensure that the information reached the intended students and created awareness about the hackathon.
 
@@ -361,7 +361,7 @@ https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrX
 
 
 
-## HW-130 L293D Motor Driver Shield – User Manual
+## 1)HW-130 L293D Motor Driver Shield – User Manual
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e8dd48b5-e9a5-404e-96e4-1a3ffde2a455" />
 
@@ -401,7 +401,7 @@ https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrX
 - Allow the driver IC to cool if it becomes excessively hot.
 
 
-## PWM DC Motor Speed Controller – User Manual
+## 2)PWM DC Motor Speed Controller – User Manual
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0a14ec31-dea5-4859-b209-a963c769e84c" />
 
@@ -441,7 +441,7 @@ https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrX
 - Disconnect power before changing connections.
 
 
-## BEETELCH DC Power Supply – User Manual
+## 3)BEETELCH DC Power Supply – User Manual
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/945cbee2-8bb7-48d0-9f74-7a021b1f1617" />
 
@@ -480,7 +480,7 @@ https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrX
 - Keep liquids away from the equipment.
 - Switch off the output before changing connections.
 
-## Two-Axis Joystick Module – User Manual
+## 4)Two-Axis Joystick Module – User Manual
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/71826085-c504-401d-bfd7-538f89c78a26" />
 
@@ -520,7 +520,7 @@ https://1drv.ms/x/c/b10fdfa91d172e27/IQAMvyOC31hoQoc6SlrhhNM8AfRXQF6M3VwfnOoWZrX
 - Disconnect power before changing connections.
 
 
-## 16×2 LCD Display – User Manual
+## 5)16×2 LCD Display – User Manual
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a0fe1ecd-132a-4cdb-bc44-f808b82a67ff" />
 
