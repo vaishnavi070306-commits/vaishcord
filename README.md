@@ -64,7 +64,7 @@ where $M$ is the bending moment, $c$ is the distance from the neutral axis, $I$ 
 
 The mechanism is intended for **reusable food-bag sealing**, providing a practical application of compliant-mechanism design. It will be fabricated as **one continuous component using FDM 3D printing**, with the material selected based on strength, ductility, flexibility, and resistance to repeated bending. Since FDM components are anisotropic due to their layer structure, the **print orientation and layer direction** will be selected to improve the strength and fatigue resistance of the living hinge. The printed component will require no mechanical assembly, with only minor removal of printing artefacts if necessary. The prototype will be evaluated through repeated opening and closing cycles to assess **elastic recovery, gripping force, deformation, and resistance to failure**. The project therefore integrates **compliant mechanism design, Strength of Materials, Material Science, mechanical analysis, CAD modelling, additive manufacturing, and real-world application** into a functional single-piece mechanism.
 
-<img width="400" height="800" alt="compliant" src="https://github.com/user-attachments/assets/d507e5c7-2f13-4939-8970-ef2240be7f3d" />
+<img width="800" height="600" alt="compliant" src="https://github.com/user-attachments/assets/d507e5c7-2f13-4939-8970-ef2240be7f3d" />
 
 # 3) Computational Fluid Dynamics (CFD) Resource Article
 
